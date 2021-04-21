@@ -6,12 +6,13 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Build  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Pipeline Stage:<br>Plan  |Software Developer  | Software Designer  |Project Manager  |Srum Master  | User    | Product Owner    |
+|------------------------  |------------------- |------------------- |---------------- |------------ |-------- |-----------------
+| Perform Commit           |         R          |        S           |       V         |     A       |         |        CI         |
+| Create pull Request      |         R          |        C           |       I         |     V       |         |        A          |
+| Code Review/Merge        |         CI         |        R           |       V         |     A       |         |        S          |
+
+                    
   
   
 [Home](../index.md)  
