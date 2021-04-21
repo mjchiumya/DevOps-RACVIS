@@ -6,12 +6,9 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Operate  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
-  
-  
+| Pipeline Stage:<br>Plan  |Software Developer  | Software Designer  |Project Manager  |Scrum Master  | User    | Product Owner    |
+|------------------------  |------------------- |------------------- |---------------- |------------ |--------  |-----------------
+| Technical Support        |         R          |        CI          |       V         |     A       |          |        S         |
+| User/usage support       |         CI         |        V           |       A         |     S       |          |        R         |
+
 [Home](../index.md)  
