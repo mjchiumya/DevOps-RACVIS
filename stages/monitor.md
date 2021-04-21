@@ -6,12 +6,10 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Monitor  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
-  
+| Pipeline Stage:<br>Plan  |Software Developer  | Software Designer  |Project Manager  |Srum Master  | User    | Product Owner    |
+|------------------------  |------------------- |------------------- |---------------- |------------ |-------- |-----------------
+| Identify security threats|         R          |        A           |       CI        |     V       |         |        S         |
+| Acquire feedback         |         V          |        CI          |       S         |     A       |         |        R         |
+
   
 [Home](../index.md)  
