@@ -6,12 +6,12 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Release  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
-  
+| Pipeline Stage:<br>Plan  |Software Developer  | Software Designer  |Project Manager  |Srum Master  | User    | Product Owner    |
+|------------------------  |------------------- |------------------- |---------------- |------------ |-------- |-----------------
+| Feature Flagging         |              S     |          V         |       R         |       CI    |         |        A         |
+| Activation/deactivation  |              R     |          S         |       V         |       A     |         |        CI        |
+| Installation             |              A     |          R         |       CI        |       S     |         |        V         |
+| Update                   |              V     |          CI        |       A         |       R     |         |        S         |
+
   
 [Home](../index.md)  
