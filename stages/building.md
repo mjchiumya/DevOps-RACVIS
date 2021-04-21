@@ -9,7 +9,7 @@ Insert your description of the stage here
 | Pipeline Stage:<br>Plan  |Software Developer  | Software Designer  |Project Manager  |Srum Master  | User    | Product Owner    |
 |------------------------  |------------------- |------------------- |---------------- |------------ |-------- |-----------------
 | Perform Commit           |         R          |        S           |       V         |     A       |         |        CI         |
-| Create pull Request      |         R          |        C           |       I         |     V       |         |        A          |
+| Create pull Request      |         R          |        CI          |       S         |     V       |         |        A          |
 | Code Review/Merge        |         CI         |        R           |       V         |     A       |         |        S          |
 
                     
